@@ -1,0 +1,186 @@
+using System;
+
+/*Console.Write("butun son kiriting ");
+string? matn = Console.ReadLine();
+int son = int.Parse(matn!);
+if (son > 0)
+{
+    Console.WriteLine("musbat");
+}
+else if (son < 0)
+{
+    Console.WriteLine("manfiy");
+}
+else
+{
+    Console.WriteLine("null");
+}
+
+
+//2
+Console.Write("son kiriting ");
+string? text = Console.ReadLine();
+int raqam = int.Parse(matn!);
+if  (raqam % 2 ==0)
+{
+    Console.WriteLine("juft");
+
+}
+else
+{
+    Console.WriteLine("toq");
+}
+
+//3
+Console.Write("brinchi son:  ");
+string? man1 = Console.ReadLine();
+int x = int.Parse(man1!);
+
+Console.Write("2inchi son:  ");
+string? man2 = Console.ReadLine();
+int y = int.Parse(man2!);
+if (x > y)
+{
+    Console.WriteLine($"kattasi= {x}");
+}
+else if (x < y)
+{
+    Console.WriteLine($"kattasi= {y}");
+}
+else
+{
+    Console.WriteLine("teng 2lasi");
+}
+
+
+//4
+Console.Write("natija");
+string? maz = Console.ReadLine();
+int san = int.Parse(maz!);
+if (san >= 90 && san <= 100)
+{
+    Console.WriteLine("A'lo");
+}
+else if (san >= 70 && san <= 89)
+{
+    Console.WriteLine("Yaxshi");
+}
+else if (san >= 60 && san <= 69)
+{
+    Console.WriteLine("Qoniqarli");
+}
+else if (san >= 0 && san <= 59)
+{
+    Console.WriteLine("Qoniqarsiz");
+}
+else
+{
+    Console.WriteLine("Noto'g'ri ball");
+}
+
+//5
+Console.Write("brinchi son:  ");
+string? man3 = Console.ReadLine();
+int w = int.Parse(man3!);
+
+Console.Write("iikinchi son:  ");
+string? man4 = Console.ReadLine();
+int r = int.Parse(man4!);
+
+Console.Write("amal belgisi:  ");
+string? man5 = Console.ReadLine();
+switch (man5)
+{
+    case "+":
+    Console.WriteLine(w+r);
+    break;
+    case "-":
+    Console.WriteLine(w-r);
+    break;
+    case "*":
+    Console.WriteLine(w*r);
+    break;
+    case "/":
+    Console.WriteLine(w/r);
+    break;
+
+//6
+Console.Write("Birinchi tomon: ");
+string? matn1 = Console.ReadLine();
+int a = int.Parse(matn1!);
+
+Console.Write("Ikkinchi tomon: ");
+string? matn2 = Console.ReadLine();
+int b = int.Parse(matn2!);
+
+Console.Write("Uchinchi tomon: ");
+string? matn3 = Console.ReadLine();
+int c = int.Parse(matn3!);
+
+if (a + b > c && a + c > b && b + c > a)
+{
+    if (a == b && b == c)
+    {
+        Console.WriteLine("Uchburchak: teng tomonli");
+    }
+    else if (a == b || a == c || b == c)
+    {
+        Console.WriteLine("Uchburchak: teng yonli");
+    }
+    else
+    {
+        Console.WriteLine("Uchburchak: turli tomonli");
+    }
+}
+else
+{
+    Console.WriteLine("Uchburchak hosil qilmaydi");
+}
+
+//7
+Console.Write("N ni kiriting: ");
+string? matn = Console.ReadLine();
+int n = int.Parse(matn!);
+
+for ( int i = 1; i <= n; i++)
+{
+    Console.Write(i + " ");
+}
+
+Console.WriteLine();
+
+
+//8
+Console.Write("N ni kiriting: ");
+string? matn = Console.ReadLine();
+int n = int.Parse(matn!);
+
+while (n >= 1)
+{
+    Console.Write(n);
+    if (n > 1)
+    {
+        Console.Write(" ");
+    }
+    n--;
+}
+
+Console.WriteLine();
+
+
+//9
+Console.Write("N ni kiriting: ");
+string? matn = Console.ReadLine();
+int n = int.Parse(matn!);
+
+int sum = 0;
+
+for (int i = 1; i <= n; i++)
+{
+    sum += i;
+}
+
+Console.WriteLine(sum);*/
+
+
+//11
